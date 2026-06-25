@@ -23,6 +23,7 @@ Control de stock, punto de venta (POS), compras, informes y alertas en tiempo re
 <img width="350" alt="StockFlow" src="https://github.com/user-attachments/assets/db4bcf26-1950-4f19-ba56-4d101e075414" />
 
 
+
 **ADWFact** — ERP cloud con CRM y facturación Verifactu
 Gestión completa de clientes, proveedores, facturas electrónicas, presupuestos e informes.
 
