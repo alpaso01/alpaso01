@@ -15,6 +15,17 @@ a vender más, trabajar mejor y aparecer en Google.
 - Software de gestión a medida (ERP, facturación, inventario)
 - Mantenimiento, hosting y administración de servidores
 
+## 💻 Proyectos destacados
+
+**StockFlow** — Software de gestión de inventario, ventas y almacén
+Control de stock, punto de venta (POS), compras, informes y alertas en tiempo real.
+<img width="749" height="663" alt="image" src="https://github.com/user-attachments/assets/db4bcf26-1950-4f19-ba56-4d101e075414" />
+
+
+**ADWFact** — ERP cloud con CRM y facturación Verifactu
+Gestión completa de clientes, proveedores, facturas electrónicas, presupuestos e informes.
+<img width="536" height="398" alt="image" src="https://github.com/user-attachments/assets/9be5a6e8-b001-4d5e-86bd-99c7517fe1cc" />
+
 ## 📫 Hablamos
 🌐 [alepsol.com](https://alepsol.com)
 📧 palomaresalex2002@gmail.com
