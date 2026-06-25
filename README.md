@@ -29,6 +29,14 @@ Gestión completa de clientes, proveedores, facturas electrónicas, presupuestos
 
 <img width="350" alt="ADWFact" src="https://github.com/user-attachments/assets/9be5a6e8-b001-4d5e-86bd-99c7517fe1cc" />
 
+**Gestión OKR** — Herramienta de objetivos y resultados clave
+Define, sigue y revisa OKRs para equipos que quieren alinear prioridades y medir avances.
+
+<img width="350" alt="okr" src="https://github.com/user-attachments/assets/dd1969ac-bffd-4052-874c-199f23d8d660" />
+
+
+
+
 ## 📫 Hablamos
 🌐 [alepsol.com](https://alepsol.com)
 📧 palomaresalex2002@gmail.com
