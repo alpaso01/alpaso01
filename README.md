@@ -17,3 +17,4 @@ a vender más, trabajar mejor y aparecer en Google.
 
 ## 📫 Hablamos
 🌐 [alepsol.com](https://alepsol.com)
+📧 palomaresalex2002@gmail.com
