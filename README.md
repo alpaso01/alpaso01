@@ -19,6 +19,7 @@ a vender más, trabajar mejor y aparecer en Google.
 
 **StockFlow** — Software de gestión de inventario, ventas y almacén
 Control de stock, punto de venta (POS), compras, informes y alertas en tiempo real.
+https://alepsol.com/stockflow-sistema-de-gestion-de-stock-e-inventario/
 
 <img width="350" alt="StockFlow" src="https://github.com/user-attachments/assets/db4bcf26-1950-4f19-ba56-4d101e075414" />
 
@@ -26,6 +27,7 @@ Control de stock, punto de venta (POS), compras, informes y alertas en tiempo re
 
 **ADWFact** — ERP cloud con CRM y facturación Verifactu
 Gestión completa de clientes, proveedores, facturas electrónicas, presupuestos e informes.
+https://alepsol.com/adwfact-sistema-de-facturacion-con-verifactu/
 
 <img width="350" alt="ADWFact" src="https://github.com/user-attachments/assets/9be5a6e8-b001-4d5e-86bd-99c7517fe1cc" />
 
